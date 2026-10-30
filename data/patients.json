@@ -1,0 +1,29 @@
+[
+    {
+        "id": 1,
+        "name": "Aarav Sharma",
+        "city": "Kathmandu",
+        "age": 25,
+        "gender": "Male",
+        "height": 5.7,
+        "weight": 65
+    },
+    {
+        "id": 2,
+        "name": "Sita Bhandari",
+        "city": "Pokhara",
+        "age": 22,
+        "gender": "Female",
+        "height": 5.3,
+        "weight": 55
+    },
+    {
+        "id": 3,
+        "name": "Ram Thapa",
+        "city": "Butwal",
+        "age": 30,
+        "gender": "Male",
+        "height": 5.8,
+        "weight": 72
+    }
+]
